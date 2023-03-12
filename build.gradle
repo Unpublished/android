@@ -41,6 +41,7 @@ subprojects {
                 includeGroup "com.github.chrisbanes"
                 includeGroup "com.github.nextcloud"
                 includeGroup "com.github.nextcloud.android-common"
+                includeGroup "com.github.nextcloud-deps"
                 includeGroup "com.github.nextcloud-deps.hwsecurity"
             }
         }
