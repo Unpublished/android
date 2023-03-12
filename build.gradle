@@ -38,7 +38,10 @@ subprojects {
         maven {
             url "https://jitpack.io"
             content {
+                includeGroup "com.github.chrisbanes"
                 includeGroup "com.github.nextcloud"
+                includeGroup "com.github.nextcloud.android-common"
+                includeGroup "com.github.nextcloud-deps"
             }
         }
     }
